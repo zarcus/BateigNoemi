@@ -6,15 +6,15 @@
         id        = "com.settingconsultoria.incidenciesAdvisor"
         version   = "1.0.0">
 
-  <name>GIV</name>
+  <name>Bateig Noemi</name>
  <!-- <name>Comunicats tipus</name>-->
 
   <description>
-    Comunicador incidencies tipus
+    Informació bateig Noemi
   </description>
 
-  <author href="http://www.Settingconsultoria.com" email="carlosloga@gmail.com">
-    CLG
+  <author email="albert.zarco@gmail.com">
+    AZA
   </author>
 
 <!-- canviat de lloc -->
