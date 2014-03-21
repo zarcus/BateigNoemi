@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ICONOS>
+     <ICONO>
+        <ID>Img_929</ID>
+        <icoImagen>929_off.png</icoImagen>
+        <icoAyuda>incid�ncies relaccionades amb brut�cia, etc, ... </icoAyuda>
+     </ICONO>
+     <ICONO>
+        <ID>Img_995</ID>
+        <icoImagen>995_off.png</icoImagen>
+        <icoAyuda>incid�ncies grafittis ofensius, pintades, en elements p�blics ... </icoAyuda>
+      </ICONO>
+</ICONOS>

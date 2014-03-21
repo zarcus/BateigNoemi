@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<niveles1>
+  <item>
+    <id>9</id>
+    <desc>Manteniment de Parcs i Jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>772</id>
+    <desc>REQUERIMENTS A VIA PÚBLICA</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>662</id>
+    <desc>MANTENIMENTS DE LA VIA PÚBLICA</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>538</id>
+    <desc>Requeriment Edificis Municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>532</id>
+    <desc>Informació i consultes gestió energètica edif. Municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>524</id>
+    <desc>Requeriment gestió energètica edif. municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>519</id>
+    <desc>Informació i consultes Edificis Municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>482</id>
+    <desc>Requeriment de Neteja edificis municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>86</id>
+    <desc>Requeriment Parcs i Jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>98</id>
+    <desc>Concurrència Parcs i Jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>103</id>
+    <desc>Informació i consultes Parcs i Jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>117</id>
+    <desc>Manteniment                   Neteja Viària</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>141</id>
+    <desc>Millora                            Neteja Viària</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>149</id>
+    <desc>Actes Via Pública                           Concurrència NV</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>150</id>
+    <desc>Informació i Consultes NV</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>155</id>
+    <desc>Manteniment  Contenidors</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>197</id>
+    <desc>Millora                            Contenidors</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>202</id>
+    <desc>Actes Via Pública                           Concurrència Cont.</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>204</id>
+    <desc>Informació i                            Consultes Cont.</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>208</id>
+    <desc>Manteniment                 Recollida Residus</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>237</id>
+    <desc>Millora                             Recollida Residus</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>253</id>
+    <desc>Actes Via Pública                           Concurrència R. R.</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>254</id>
+    <desc>Informació i                            Consultes R.R.</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>436</id>
+    <desc>Manteniment de Neteja edificis municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+</niveles1>

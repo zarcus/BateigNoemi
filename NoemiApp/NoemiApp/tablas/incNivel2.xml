@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<niveles2>
+  <item_9>
+    <id>10</id>
+    <desc>ARBRES</desc>
+  </item_9>
+  <item_9>
+    <id>19</id>
+    <desc>PALMERES </desc>
+  </item_9>
+  <item_9>
+    <id>23</id>
+    <desc>ARBUSTIVA </desc>
+  </item_9>
+  <item_9>
+    <id>29</id>
+    <desc>BARDISSES</desc>
+  </item_9>
+  <item_9>
+    <id>34</id>
+    <desc>GESPES</desc>
+  </item_9>
+  <item_9>
+    <id>41</id>
+    <desc>VEGETACIÓ </desc>
+  </item_9>
+  <item_9>
+    <id>46</id>
+    <desc>FLOR DE TEMPORADA</desc>
+  </item_9>
+  <item_9>
+    <id>51</id>
+    <desc>ELEMENTS ARQUITECTÒNICS </desc>
+  </item_9>
+  <item_9>
+    <id>56</id>
+    <desc>REG, DRENATGE I ENLLUMENAT</desc>
+  </item_9>
+  <item_9>
+    <id>61</id>
+    <desc>MOBILIARI DE PARCS I JARDINS</desc>
+  </item_9>
+  <item_9>
+    <id>66</id>
+    <desc>PAVIMENTS I CAMINS PARCS / PLACES</desc>
+  </item_9>
+  <item_9>
+    <id>70</id>
+    <desc>FONTS I ESTANYS PARCS / PLACES</desc>
+  </item_9>
+  <item_9>
+    <id>75</id>
+    <desc>VERD PERI-URBÀ I DE RIERA EN TRAMA URBANA I ENTORN NATURAL</desc>
+  </item_9>
+  <item_9>
+    <id>83</id>
+    <desc>SOLARS</desc>
+  </item_9>
+  <item_9>
+    <id>917</id>
+    <desc>- General</desc>
+  </item_9>
+  <item_86>
+    <id>93</id>
+    <desc>QUEIXES </desc>
+  </item_86>
+  <item_86>
+    <id>87</id>
+    <desc>ARBRES</desc>
+  </item_86>
+  <item_98>
+    <id>100</id>
+    <desc>LLICÈNCIES</desc>
+  </item_98>
+  <item_98>
+    <id>101</id>
+    <desc>PAVIMENTS </desc>
+  </item_98>
+  <item_98>
+    <id>99</id>
+    <desc>GUALS </desc>
+  </item_98>
+  <item_103>
+    <id>113</id>
+    <desc>RESPOSTA PETICIONS </desc>
+  </item_103>
+  <item_103>
+    <id>106</id>
+    <desc>ASSESSORAMENT ALTRES SERVEIS</desc>
+  </item_103>
+  <item_103>
+    <id>104</id>
+    <desc>INFORMES A PROJECTES</desc>
+  </item_103>
+  <item_117>
+    <id>129</id>
+    <desc>Paperera</desc>
+  </item_117>
+  <item_117>
+    <id>123</id>
+    <desc>Neteja calçada / vial </desc>
+  </item_117>
+  <item_117>
+    <id>118</id>
+    <desc>Neteja vorera</desc>
+  </item_117>
+  <item_117>
+    <id>133</id>
+    <desc>Banc</desc>
+  </item_117>
+  <item_117>
+    <id>139</id>
+    <desc>Element senyalitzador</desc>
+  </item_117>
+  <item_117>
+    <id>136</id>
+    <desc>Façana, element arquitectònic o element limitant</desc>
+  </item_117>
+  <item_141>
+    <id>143</id>
+    <desc>Zona de propietat Privada</desc>
+  </item_141>
+  <item_141>
+    <id>147</id>
+    <desc>Cunetes i carreteres</desc>
+  </item_141>
+  <item_141>
+    <id>145</id>
+    <desc>Zona de difícil accés o afores</desc>
+  </item_141>
+  <item_149>
+    <id>832</id>
+    <desc>Actes Via Pública                           Concurrència NV</desc>
+  </item_149>
+  <item_150>
+    <id>834</id>
+    <desc>Informació i Consultes NV</desc>
+  </item_150>
+  <item_155>
+    <id>164</id>
+    <desc>Orgànica Gran Generador</desc>
+  </item_155>
+  <item_155>
+    <id>168</id>
+    <desc>Paper Superfície</desc>
+  </item_155>
+  <item_155>
+    <id>173</id>
+    <desc>Envasos superfície</desc>
+  </item_155>
+  <item_155>
+    <id>178</id>
+    <desc>Vidre Superfície</desc>
+  </item_155>
+  <item_155>
+    <id>181</id>
+    <desc>Plataforma hidràulica Soterrat</desc>
+  </item_155>
+  <item_155>
+    <id>160</id>
+    <desc>Orgànica Domicilis </desc>
+  </item_155>
+  <item_155>
+    <id>189</id>
+    <desc>Plataforma mecànica Soterrat Envasos</desc>
+  </item_155>
+  <item_155>
+    <id>193</id>
+    <desc>Plataforma mecànica Soterrat Vidre</desc>
+  </item_155>
+  <item_155>
+    <id>185</id>
+    <desc>Plataforma mecànica Soterrat Cartró</desc>
+  </item_155>
+  <item_155>
+    <id>156</id>
+    <desc>Rebuig Superfície</desc>
+  </item_155>
+  <item_197>
+    <id>836</id>
+    <desc>Millora                            Contenidors</desc>
+  </item_197>
+  <item_202>
+    <id>838</id>
+    <desc>Actes Via Pública                           Concurrència Cont.</desc>
+  </item_202>
+  <item_204>
+    <id>840</id>
+    <desc>Informació i                            Consultes Cont.</desc>
+  </item_204>
+  <item_208>
+    <id>229</id>
+    <desc>Recollida Vidre</desc>
+  </item_208>
+  <item_208>
+    <id>209</id>
+    <desc>Recollida Rebuig</desc>
+  </item_208>
+  <item_208>
+    <id>226</id>
+    <desc>Recollida Envasos</desc>
+  </item_208>
+  <item_208>
+    <id>222</id>
+    <desc>Recollida Cartró</desc>
+  </item_208>
+  <item_208>
+    <id>216</id>
+    <desc>Recollida Orgànica</desc>
+  </item_208>
+  <item_208>
+    <id>232</id>
+    <desc>Recollides especials</desc>
+  </item_208>
+  <item_237>
+    <id>252</id>
+    <desc>Servei Deixalleria</desc>
+  </item_237>
+  <item_237>
+    <id>251</id>
+    <desc>Servei Minideixalleria</desc>
+  </item_237>
+  <item_237>
+    <id>250</id>
+    <desc>Recollida Roba </desc>
+  </item_237>
+  <item_237>
+    <id>249</id>
+    <desc>Recollida PaP Rebuig Centre</desc>
+  </item_237>
+  <item_237>
+    <id>248</id>
+    <desc>Recollida Vidre Domiciliaria</desc>
+  </item_237>
+  <item_237>
+    <id>247</id>
+    <desc>Recollida Envasos Domiciliaria</desc>
+  </item_237>
+  <item_237>
+    <id>246</id>
+    <desc>Recollida Cartró Grans Generadors</desc>
+  </item_237>
+  <item_237>
+    <id>242</id>
+    <desc>Recollida FORM Grans Generadors</desc>
+  </item_237>
+  <item_237>
+    <id>240</id>
+    <desc>Recollida FORM Domiciliaria</desc>
+  </item_237>
+  <item_237>
+    <id>238</id>
+    <desc>Recollida Rebuig Domiciliaria</desc>
+  </item_237>
+  <item_237>
+    <id>244</id>
+    <desc>Recollida Cartró Domiciliaria</desc>
+  </item_237>
+  <item_253>
+    <id>842</id>
+    <desc>Actes Via Pública                           Concurrència R. R.</desc>
+  </item_253>
+  <item_254>
+    <id>267</id>
+    <desc>Telefonia i comunicacions</desc>
+  </item_254>
+  <item_254>
+    <id>276</id>
+    <desc>Aigua i fontaneria</desc>
+  </item_254>
+  <item_254>
+    <id>287</id>
+    <desc>Gas</desc>
+  </item_254>
+  <item_254>
+    <id>294</id>
+    <desc>Alarmes</desc>
+  </item_254>
+  <item_254>
+    <id>299</id>
+    <desc>Ascensors i elevadors</desc>
+  </item_254>
+  <item_254>
+    <id>309</id>
+    <desc>Calefacció i Climatització</desc>
+  </item_254>
+  <item_254>
+    <id>324</id>
+    <desc>Tancaments i acabats interiors</desc>
+  </item_254>
+  <item_254>
+    <id>341</id>
+    <desc>Mobiliari</desc>
+  </item_254>
+  <item_254>
+    <id>348</id>
+    <desc>Parallamps</desc>
+  </item_254>
+  <item_254>
+    <id>353</id>
+    <desc>Equips auxiliars</desc>
+  </item_254>
+  <item_254>
+    <id>423</id>
+    <desc>Mobiliari urbà</desc>
+  </item_254>
+  <item_254>
+    <id>428</id>
+    <desc>Paviments exteriors</desc>
+  </item_254>
+  <item_254>
+    <id>355</id>
+    <desc>jocs infantils</desc>
+  </item_254>
+  <item_254>
+    <id>360</id>
+    <desc>jocs esportius</desc>
+  </item_254>
+  <item_254>
+    <id>365</id>
+    <desc>Sistemes contra incèndis</desc>
+  </item_254>
+  <item_254>
+    <id>378</id>
+    <desc>Patis i jardins</desc>
+  </item_254>
+  <item_254>
+    <id>388</id>
+    <desc>Cobertes</desc>
+  </item_254>
+  <item_254>
+    <id>395</id>
+    <desc>Façanes </desc>
+  </item_254>
+  <item_254>
+    <id>405</id>
+    <desc>Estructura</desc>
+  </item_254>
+  <item_254>
+    <id>410</id>
+    <desc>Tancaments exteriors</desc>
+  </item_254>
+  <item_436>
+    <id>467</id>
+    <desc>Ascensor</desc>
+  </item_436>
+  <item_436>
+    <id>458</id>
+    <desc>Lavabos</desc>
+  </item_436>
+  <item_436>
+    <id>453</id>
+    <desc>mobles</desc>
+  </item_436>
+  <item_436>
+    <id>446</id>
+    <desc>Patis</desc>
+  </item_436>
+  <item_436>
+    <id>442</id>
+    <desc>vidres</desc>
+  </item_436>
+  <item_436>
+    <id>437</id>
+    <desc>Terres</desc>
+  </item_436>
+  <item_436>
+    <id>475</id>
+    <desc>elements instal·lacions</desc>
+  </item_436>
+  <item_436>
+    <id>470</id>
+    <desc>Tancaments</desc>
+  </item_436>
+  <item_482>
+    <id>501</id>
+    <desc>mobles</desc>
+  </item_482>
+  <item_482>
+    <id>504</id>
+    <desc>Lavabos</desc>
+  </item_482>
+  <item_482>
+    <id>507</id>
+    <desc>Ascensor</desc>
+  </item_482>
+  <item_482>
+    <id>510</id>
+    <desc>Tancaments</desc>
+  </item_482>
+  <item_482>
+    <id>513</id>
+    <desc>elements instal·lacions</desc>
+  </item_482>
+  <item_482>
+    <id>517</id>
+    <desc>Neteja nous equipaments</desc>
+  </item_482>
+  <item_482>
+    <id>498</id>
+    <desc>Patis</desc>
+  </item_482>
+  <item_482>
+    <id>496</id>
+    <desc>vidres</desc>
+  </item_482>
+  <item_482>
+    <id>492</id>
+    <desc>Terres</desc>
+  </item_482>
+  <item_482>
+    <id>487</id>
+    <desc>Material de neteja</desc>
+  </item_482>
+  <item_482>
+    <id>518</id>
+    <desc>Ampliar nous espais</desc>
+  </item_482>
+  <item_482>
+    <id>485</id>
+    <desc>Eleccions</desc>
+  </item_482>
+  <item_482>
+    <id>484</id>
+    <desc>Casaments </desc>
+  </item_482>
+  <item_482>
+    <id>483</id>
+    <desc>Actes</desc>
+  </item_482>
+  <item_482>
+    <id>486</id>
+    <desc>Festa Major</desc>
+  </item_482>
+  <item_519>
+    <id>520</id>
+    <desc>Informes</desc>
+  </item_519>
+  <item_519>
+    <id>521</id>
+    <desc>Respostes</desc>
+  </item_519>
+  <item_519>
+    <id>522</id>
+    <desc>Estudis </desc>
+  </item_519>
+  <item_519>
+    <id>523</id>
+    <desc>Requeriments externs</desc>
+  </item_519>
+  <item_524>
+    <id>529</id>
+    <desc>Accés aparells mesura i control</desc>
+  </item_524>
+  <item_524>
+    <id>527</id>
+    <desc>Lectures</desc>
+  </item_524>
+  <item_524>
+    <id>525</id>
+    <desc>Consums</desc>
+  </item_524>
+  <item_532>
+    <id>537</id>
+    <desc>Nous subministres</desc>
+  </item_532>
+  <item_532>
+    <id>536</id>
+    <desc>Requeriments externs</desc>
+  </item_532>
+  <item_532>
+    <id>535</id>
+    <desc>Estudis </desc>
+  </item_532>
+  <item_532>
+    <id>533</id>
+    <desc>Informes</desc>
+  </item_532>
+  <item_532>
+    <id>534</id>
+    <desc>Respostes</desc>
+  </item_532>
+  <item_538>
+    <id>576</id>
+    <desc>Tancaments i acabats interiors</desc>
+  </item_538>
+  <item_538>
+    <id>568</id>
+    <desc>Calefacció i Climatització</desc>
+  </item_538>
+  <item_538>
+    <id>654</id>
+    <desc>Paviments exteriors</desc>
+  </item_538>
+  <item_538>
+    <id>585</id>
+    <desc>Mobiliari</desc>
+  </item_538>
+  <item_538>
+    <id>590</id>
+    <desc>Parallamps</desc>
+  </item_538>
+  <item_538>
+    <id>592</id>
+    <desc>Equips auxiliars</desc>
+  </item_538>
+  <item_538>
+    <id>597</id>
+    <desc>jocs infantils</desc>
+  </item_538>
+  <item_538>
+    <id>602</id>
+    <desc>jocs esportius</desc>
+  </item_538>
+  <item_538>
+    <id>607</id>
+    <desc>Sistemes contra incèndis</desc>
+  </item_538>
+  <item_538>
+    <id>618</id>
+    <desc>Patis i jardins</desc>
+  </item_538>
+  <item_538>
+    <id>626</id>
+    <desc>Cobertes</desc>
+  </item_538>
+  <item_538>
+    <id>631</id>
+    <desc>Façanes </desc>
+  </item_538>
+  <item_538>
+    <id>636</id>
+    <desc>Estructura</desc>
+  </item_538>
+  <item_538>
+    <id>638</id>
+    <desc>Tancaments exteriors</desc>
+  </item_538>
+  <item_538>
+    <id>566</id>
+    <desc>Ascensors i elevadors</desc>
+  </item_538>
+  <item_538>
+    <id>562</id>
+    <desc>Alarmes</desc>
+  </item_538>
+  <item_538>
+    <id>558</id>
+    <desc>Gas</desc>
+  </item_538>
+  <item_538>
+    <id>552</id>
+    <desc>Aigua i fontaneria</desc>
+  </item_538>
+  <item_538>
+    <id>545</id>
+    <desc>Telefonia i comunicacions</desc>
+  </item_538>
+  <item_538>
+    <id>539</id>
+    <desc>Electricitat i enllumenat</desc>
+  </item_538>
+  <item_538>
+    <id>649</id>
+    <desc>Mobiliari urbà</desc>
+  </item_538>
+  <item_662>
+    <id>696</id>
+    <desc>CALÇADA</desc>
+  </item_662>
+  <item_662>
+    <id>769</id>
+    <desc>AGRAÏMENTS</desc>
+  </item_662>
+  <item_662>
+    <id>705</id>
+    <desc>FONTS</desc>
+  </item_662>
+  <item_662>
+    <id>708</id>
+    <desc>MIRALL PARABÒLIC PÚBLIC</desc>
+  </item_662>
+  <item_662>
+    <id>712</id>
+    <desc>CARTELLERA INFORMACIÓ CIUTADANA</desc>
+  </item_662>
+  <item_662>
+    <id>713</id>
+    <desc>PAPERERES</desc>
+  </item_662>
+  <item_662>
+    <id>716</id>
+    <desc>PILONES</desc>
+  </item_662>
+  <item_662>
+    <id>719</id>
+    <desc>PILONES AUTOMÀTIQUES</desc>
+  </item_662>
+  <item_662>
+    <id>724</id>
+    <desc>PLAQUES DE NOM DE CARRER</desc>
+  </item_662>
+  <item_662>
+    <id>726</id>
+    <desc>SEMÀFORS</desc>
+  </item_662>
+  <item_662>
+    <id>731</id>
+    <desc>REDUCTORS DE VELOCITAT</desc>
+  </item_662>
+  <item_662>
+    <id>735</id>
+    <desc>SENYALITZACIÓ HORITZONTAL</desc>
+  </item_662>
+  <item_662>
+    <id>663</id>
+    <desc>ENLLUMENAT PÚBLIC</desc>
+  </item_662>
+  <item_662>
+    <id>670</id>
+    <desc>JOCS ESPORTIUS</desc>
+  </item_662>
+  <item_662>
+    <id>674</id>
+    <desc>JOCS INFANTILS</desc>
+  </item_662>
+  <item_662>
+    <id>678</id>
+    <desc>VORERES</desc>
+  </item_662>
+  <item_662>
+    <id>681</id>
+    <desc>APARCAMENTS</desc>
+  </item_662>
+  <item_662>
+    <id>684</id>
+    <desc>CLAVEGUERAM</desc>
+  </item_662>
+  <item_662>
+    <id>688</id>
+    <desc>BANCS</desc>
+  </item_662>
+  <item_662>
+    <id>692</id>
+    <desc>BARANES</desc>
+  </item_662>
+  <item_662>
+    <id>746</id>
+    <desc>SENYALITZACIÓ VERTICAL - CODI</desc>
+  </item_662>
+  <item_662>
+    <id>763</id>
+    <desc>SENYALITZACIÓ VERTICAL- ORIENTATIVA</desc>
+  </item_662>
+  <item_662>
+    <id>701</id>
+    <desc>CONTENIDORS</desc>
+  </item_662>
+  <item_772>
+    <id>773</id>
+    <desc>BANCS</desc>
+  </item_772>
+  <item_772>
+    <id>831</id>
+    <desc>TRANSPORTS i MUNTATGES</desc>
+  </item_772>
+  <item_772>
+    <id>779</id>
+    <desc>CARTELLERA INFORMACIÓ CIUTADANA</desc>
+  </item_772>
+  <item_772>
+    <id>782</id>
+    <desc>ENLLUMENAT PÚBLIC</desc>
+  </item_772>
+  <item_772>
+    <id>784</id>
+    <desc>FONTS</desc>
+  </item_772>
+  <item_772>
+    <id>786</id>
+    <desc>JOCS ESPORTIUS</desc>
+  </item_772>
+  <item_772>
+    <id>792</id>
+    <desc>JOCS INFANTILS</desc>
+  </item_772>
+  <item_772>
+    <id>795</id>
+    <desc>PAPERERES</desc>
+  </item_772>
+  <item_772>
+    <id>802</id>
+    <desc>PILONES</desc>
+  </item_772>
+  <item_772>
+    <id>805</id>
+    <desc>PILONES MÒBILS</desc>
+  </item_772>
+  <item_772>
+    <id>808</id>
+    <desc>PLAQUES DE NOM DE CARRER</desc>
+  </item_772>
+  <item_772>
+    <id>811</id>
+    <desc>REDUCTORS DE VELOCITAT</desc>
+  </item_772>
+  <item_772>
+    <id>814</id>
+    <desc>SENYALITZACIÓ HORITZONTAL</desc>
+  </item_772>
+  <item_772>
+    <id>819</id>
+    <desc>SENYALITZACIÓ VERTICAL - CODI</desc>
+  </item_772>
+  <item_772>
+    <id>825</id>
+    <desc>SENYALITZACIÓ VERTICAL- ORIENTATIVA</desc>
+  </item_772>
+  <item_772>
+    <id>776</id>
+    <desc>BARANES</desc>
+  </item_772>
+</niveles2>

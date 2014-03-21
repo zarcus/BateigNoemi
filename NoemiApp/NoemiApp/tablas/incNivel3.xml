@@ -1,0 +1,2639 @@
+<?xml version="1.0"?>
+<niveles3>
+  <item_10>
+    <id>11</id>
+    <desc>ESPORGA</desc>
+  </item_10>
+  <item_10>
+    <id>12</id>
+    <desc>TRACTAMENTS </desc>
+  </item_10>
+  <item_10>
+    <id>13</id>
+    <desc>TALA</desc>
+  </item_10>
+  <item_10>
+    <id>14</id>
+    <desc>DESTOCONAT</desc>
+  </item_10>
+  <item_10>
+    <id>15</id>
+    <desc>SUBSTITUCIÓ</desc>
+  </item_10>
+  <item_10>
+    <id>16</id>
+    <desc>MANTENIMENT INVENTARI</desc>
+  </item_10>
+  <item_10>
+    <id>17</id>
+    <desc>ESCOCELLS PLANTATS </desc>
+  </item_10>
+  <item_10>
+    <id>18</id>
+    <desc>REG</desc>
+  </item_10>
+  <item_10>
+    <id>920</id>
+    <desc>- General</desc>
+  </item_10>
+  <item_19>
+    <id>22</id>
+    <desc>ESPORGA</desc>
+  </item_19>
+  <item_19>
+    <id>21</id>
+    <desc>fitos varis</desc>
+  </item_19>
+  <item_19>
+    <id>20</id>
+    <desc>CONTROL MORRUT </desc>
+  </item_19>
+  <item_23>
+    <id>24</id>
+    <desc>ESPORGA / TUPIARIA</desc>
+  </item_23>
+  <item_23>
+    <id>28</id>
+    <desc>REG</desc>
+  </item_23>
+  <item_23>
+    <id>27</id>
+    <desc>REPOSICIO</desc>
+  </item_23>
+  <item_23>
+    <id>26</id>
+    <desc>SUBSTITUCIO</desc>
+  </item_23>
+  <item_23>
+    <id>25</id>
+    <desc>TRACTAMENTS </desc>
+  </item_23>
+  <item_29>
+    <id>33</id>
+    <desc>REG</desc>
+  </item_29>
+  <item_29>
+    <id>32</id>
+    <desc>REPOSICIO</desc>
+  </item_29>
+  <item_29>
+    <id>31</id>
+    <desc>TRACTAMENTS </desc>
+  </item_29>
+  <item_29>
+    <id>30</id>
+    <desc>ESPORGA / TUPIARIA</desc>
+  </item_29>
+  <item_34>
+    <id>40</id>
+    <desc>REG</desc>
+  </item_34>
+  <item_34>
+    <id>37</id>
+    <desc>ADOBATS</desc>
+  </item_34>
+  <item_34>
+    <id>39</id>
+    <desc>NETEJA</desc>
+  </item_34>
+  <item_34>
+    <id>35</id>
+    <desc>SEGA</desc>
+  </item_34>
+  <item_34>
+    <id>36</id>
+    <desc>ESCARIFICATS I ENCEBALLS</desc>
+  </item_34>
+  <item_34>
+    <id>38</id>
+    <desc>TRACTAMENTS </desc>
+  </item_34>
+  <item_41>
+    <id>45</id>
+    <desc>REG</desc>
+  </item_41>
+  <item_41>
+    <id>44</id>
+    <desc>TRACTAMENTS </desc>
+  </item_41>
+  <item_41>
+    <id>43</id>
+    <desc>SUBSTITUCIO</desc>
+  </item_41>
+  <item_41>
+    <id>42</id>
+    <desc>VIVAÇ ESCOCELLS</desc>
+  </item_41>
+  <item_46>
+    <id>50</id>
+    <desc>REG</desc>
+  </item_46>
+  <item_46>
+    <id>47</id>
+    <desc>REPOSICIÒ</desc>
+  </item_46>
+  <item_46>
+    <id>48</id>
+    <desc>SUBSTITUCIO</desc>
+  </item_46>
+  <item_46>
+    <id>49</id>
+    <desc>TRACTAMENTS </desc>
+  </item_46>
+  <item_51>
+    <id>52</id>
+    <desc>NETEJA</desc>
+  </item_51>
+  <item_51>
+    <id>55</id>
+    <desc>MANTENIMENT INVENTARI</desc>
+  </item_51>
+  <item_51>
+    <id>54</id>
+    <desc>VANDALISME</desc>
+  </item_51>
+  <item_51>
+    <id>53</id>
+    <desc>REPARACIÓ</desc>
+  </item_51>
+  <item_56>
+    <id>57</id>
+    <desc>REPARACIO </desc>
+  </item_56>
+  <item_56>
+    <id>58</id>
+    <desc>ESPORGA CONTENCIÓ</desc>
+  </item_56>
+  <item_56>
+    <id>59</id>
+    <desc>VANDALISME</desc>
+  </item_56>
+  <item_56>
+    <id>60</id>
+    <desc>MANTENIMENT INVENTARI</desc>
+  </item_56>
+  <item_61>
+    <id>65</id>
+    <desc>MANTENIMENT INVENTARI </desc>
+  </item_61>
+  <item_61>
+    <id>64</id>
+    <desc>VANDALISME</desc>
+  </item_61>
+  <item_61>
+    <id>63</id>
+    <desc>REPARACIÓ</desc>
+  </item_61>
+  <item_61>
+    <id>62</id>
+    <desc>NETEJA</desc>
+  </item_61>
+  <item_66>
+    <id>67</id>
+    <desc>NIVELLAMENT</desc>
+  </item_66>
+  <item_66>
+    <id>68</id>
+    <desc>APORTACIONS SAULO/GRAVA/TERRA</desc>
+  </item_66>
+  <item_66>
+    <id>69</id>
+    <desc>COMPACTACIÓ</desc>
+  </item_66>
+  <item_70>
+    <id>74</id>
+    <desc>VEGETACIO VIVAÇ</desc>
+  </item_70>
+  <item_70>
+    <id>71</id>
+    <desc>NETEJA</desc>
+  </item_70>
+  <item_70>
+    <id>72</id>
+    <desc>CONTROL  LEGIONELLA</desc>
+  </item_70>
+  <item_70>
+    <id>73</id>
+    <desc>VEGETACIO AQUÀTICA</desc>
+  </item_70>
+  <item_75>
+    <id>76</id>
+    <desc>SEGUES</desc>
+  </item_75>
+  <item_75>
+    <id>82</id>
+    <desc>NETEGES</desc>
+  </item_75>
+  <item_75>
+    <id>81</id>
+    <desc>TRACTAMENTS ESPECIALS</desc>
+  </item_75>
+  <item_75>
+    <id>77</id>
+    <desc>TALES</desc>
+  </item_75>
+  <item_75>
+    <id>78</id>
+    <desc>DESTOCONATS</desc>
+  </item_75>
+  <item_75>
+    <id>79</id>
+    <desc>SUBSTITUCIONS</desc>
+  </item_75>
+  <item_75>
+    <id>80</id>
+    <desc>REG</desc>
+  </item_75>
+  <item_83>
+    <id>84</id>
+    <desc>SEGA</desc>
+  </item_83>
+  <item_83>
+    <id>85</id>
+    <desc>NETEJA </desc>
+  </item_83>
+  <item_83>
+    <id>919</id>
+    <desc>- General</desc>
+  </item_83>
+  <item_87>
+    <id>90</id>
+    <desc>ESPORGA</desc>
+  </item_87>
+  <item_87>
+    <id>91</id>
+    <desc>TRACTAMENTS </desc>
+  </item_87>
+  <item_87>
+    <id>92</id>
+    <desc>NOUS  ENJARDINAMENTS </desc>
+  </item_87>
+  <item_87>
+    <id>88</id>
+    <desc>SUBSTITUCIÓ</desc>
+  </item_87>
+  <item_87>
+    <id>89</id>
+    <desc>TALA</desc>
+  </item_87>
+  <item_93>
+    <id>94</id>
+    <desc>ESPORGA </desc>
+  </item_93>
+  <item_93>
+    <id>95</id>
+    <desc>ARRELS PAVIMENTS </desc>
+  </item_93>
+  <item_93>
+    <id>96</id>
+    <desc>PLAGUES</desc>
+  </item_93>
+  <item_93>
+    <id>97</id>
+    <desc>FRUITS</desc>
+  </item_93>
+  <item_99>
+    <id>844</id>
+    <desc>GUALS </desc>
+  </item_99>
+  <item_100>
+    <id>845</id>
+    <desc>LLICÈNCIES</desc>
+  </item_100>
+  <item_101>
+    <id>102</id>
+    <desc>ARRELS ARBRAT</desc>
+  </item_101>
+  <item_104>
+    <id>105</id>
+    <desc>URBANISME</desc>
+  </item_104>
+  <item_106>
+    <id>108</id>
+    <desc>URBANISME</desc>
+  </item_106>
+  <item_106>
+    <id>107</id>
+    <desc>MEDI AMBIENT</desc>
+  </item_106>
+  <item_106>
+    <id>109</id>
+    <desc>SALUT</desc>
+  </item_106>
+  <item_106>
+    <id>112</id>
+    <desc>ESPORTS</desc>
+  </item_106>
+  <item_106>
+    <id>110</id>
+    <desc>ENSENYAMENT</desc>
+  </item_106>
+  <item_106>
+    <id>111</id>
+    <desc>CULTURA </desc>
+  </item_106>
+  <item_113>
+    <id>114</id>
+    <desc>ESPORGA ARBRES </desc>
+  </item_113>
+  <item_115>
+    <id>116</id>
+    <desc>ARRANCADA ARBRES </desc>
+  </item_115>
+  <item_118>
+    <id>119</id>
+    <desc>Falta de servei de neteja</desc>
+  </item_118>
+  <item_118>
+    <id>120</id>
+    <desc>Màquina escombradora</desc>
+  </item_118>
+  <item_118>
+    <id>122</id>
+    <desc>Escombrat manual (operari neteja)</desc>
+  </item_118>
+  <item_118>
+    <id>121</id>
+    <desc>Bufadors</desc>
+  </item_118>
+  <item_123>
+    <id>124</id>
+    <desc>Falta de servei</desc>
+  </item_123>
+  <item_123>
+    <id>125</id>
+    <desc>Màquina escombradora</desc>
+  </item_123>
+  <item_123>
+    <id>126</id>
+    <desc>Bufadors</desc>
+  </item_123>
+  <item_123>
+    <id>127</id>
+    <desc>Escombrat manual (operari neteja)</desc>
+  </item_123>
+  <item_123>
+    <id>128</id>
+    <desc>Desembussar embornal</desc>
+  </item_123>
+  <item_129>
+    <id>130</id>
+    <desc>Buidat</desc>
+  </item_129>
+  <item_129>
+    <id>131</id>
+    <desc>Neteja exterior</desc>
+  </item_129>
+  <item_129>
+    <id>132</id>
+    <desc>Neteja base</desc>
+  </item_129>
+  <item_133>
+    <id>134</id>
+    <desc>Neteja</desc>
+  </item_133>
+  <item_133>
+    <id>135</id>
+    <desc>Neteja base</desc>
+  </item_133>
+  <item_136>
+    <id>137</id>
+    <desc>Neteja Pintada</desc>
+  </item_136>
+  <item_136>
+    <id>138</id>
+    <desc>Neteja per mals olors</desc>
+  </item_136>
+  <item_139>
+    <id>140</id>
+    <desc>Neteja Pintada</desc>
+  </item_139>
+  <item_139>
+    <id>142</id>
+    <desc>Tornar a netejar</desc>
+  </item_139>
+  <item_143>
+    <id>144</id>
+    <desc>Netejar</desc>
+  </item_143>
+  <item_145>
+    <id>146</id>
+    <desc>Netejar</desc>
+  </item_145>
+  <item_147>
+    <id>148</id>
+    <desc>Netejar</desc>
+  </item_147>
+  <item_147>
+    <id>151</id>
+    <desc>Informe Tècnic</desc>
+  </item_147>
+  <item_147>
+    <id>154</id>
+    <desc>Resposta a particular</desc>
+  </item_147>
+  <item_147>
+    <id>153</id>
+    <desc>Pressupost</desc>
+  </item_147>
+  <item_147>
+    <id>152</id>
+    <desc>Reclamació Patrimonial</desc>
+  </item_147>
+  <item_156>
+    <id>157</id>
+    <desc>Reparació</desc>
+  </item_156>
+  <item_156>
+    <id>158</id>
+    <desc>Neteja</desc>
+  </item_156>
+  <item_156>
+    <id>159</id>
+    <desc>Moviment (Canvi lloc, eliminar, substituir, posar)</desc>
+  </item_156>
+  <item_160>
+    <id>161</id>
+    <desc>Reparació</desc>
+  </item_160>
+  <item_160>
+    <id>163</id>
+    <desc>Moviment (Canvi lloc, eliminar, substituir, posar)</desc>
+  </item_160>
+  <item_160>
+    <id>162</id>
+    <desc>Neteja</desc>
+  </item_160>
+  <item_164>
+    <id>166</id>
+    <desc>Neteja</desc>
+  </item_164>
+  <item_164>
+    <id>165</id>
+    <desc>Reparació</desc>
+  </item_164>
+  <item_164>
+    <id>167</id>
+    <desc>Moviment (Portar, retirar , substituir)</desc>
+  </item_164>
+  <item_168>
+    <id>170</id>
+    <desc>Neteja</desc>
+  </item_168>
+  <item_168>
+    <id>169</id>
+    <desc>Reparació</desc>
+  </item_168>
+  <item_168>
+    <id>171</id>
+    <desc>Moviment</desc>
+  </item_168>
+  <item_168>
+    <id>172</id>
+    <desc>Pintat</desc>
+  </item_168>
+  <item_173>
+    <id>174</id>
+    <desc>Reparació</desc>
+  </item_173>
+  <item_173>
+    <id>176</id>
+    <desc>Moviment</desc>
+  </item_173>
+  <item_173>
+    <id>175</id>
+    <desc>Neteja</desc>
+  </item_173>
+  <item_173>
+    <id>177</id>
+    <desc>Pintat</desc>
+  </item_173>
+  <item_178>
+    <id>180</id>
+    <desc>Moviment</desc>
+  </item_178>
+  <item_178>
+    <id>179</id>
+    <desc>Neteja</desc>
+  </item_178>
+  <item_181>
+    <id>182</id>
+    <desc>Reparació</desc>
+  </item_181>
+  <item_181>
+    <id>184</id>
+    <desc>Buidat fosa</desc>
+  </item_181>
+  <item_181>
+    <id>183</id>
+    <desc>Neteja</desc>
+  </item_181>
+  <item_185>
+    <id>188</id>
+    <desc>Buidat fosa</desc>
+  </item_185>
+  <item_185>
+    <id>186</id>
+    <desc>Reparació</desc>
+  </item_185>
+  <item_185>
+    <id>187</id>
+    <desc>Neteja</desc>
+  </item_185>
+  <item_189>
+    <id>192</id>
+    <desc>Buidat fosa</desc>
+  </item_189>
+  <item_189>
+    <id>191</id>
+    <desc>Neteja</desc>
+  </item_189>
+  <item_189>
+    <id>190</id>
+    <desc>Reparació</desc>
+  </item_189>
+  <item_193>
+    <id>206</id>
+    <desc>Reclamació Patrimonial</desc>
+  </item_193>
+  <item_193>
+    <id>205</id>
+    <desc>Informe Tècnic</desc>
+  </item_193>
+  <item_193>
+    <id>203</id>
+    <desc>Posar contenidor</desc>
+  </item_193>
+  <item_193>
+    <id>201</id>
+    <desc>Subvenció</desc>
+  </item_193>
+  <item_193>
+    <id>200</id>
+    <desc>Canviar contenidor</desc>
+  </item_193>
+  <item_193>
+    <id>199</id>
+    <desc>Posar contenidor</desc>
+  </item_193>
+  <item_193>
+    <id>198</id>
+    <desc>Retirar contenidor</desc>
+  </item_193>
+  <item_193>
+    <id>196</id>
+    <desc>Buidat fosa</desc>
+  </item_193>
+  <item_193>
+    <id>195</id>
+    <desc>Neteja</desc>
+  </item_193>
+  <item_193>
+    <id>207</id>
+    <desc>Resposta a particular</desc>
+  </item_193>
+  <item_193>
+    <id>194</id>
+    <desc>Reparació</desc>
+  </item_193>
+  <item_209>
+    <id>213</id>
+    <desc>Recollir Voluminosos (Recollida Dimecres)</desc>
+  </item_209>
+  <item_209>
+    <id>212</id>
+    <desc>Recollir bosses brossa Rebuig PaP</desc>
+  </item_209>
+  <item_209>
+    <id>210</id>
+    <desc>Buidar contenidor Rebuig ple</desc>
+  </item_209>
+  <item_209>
+    <id>211</id>
+    <desc>Tancar tapa contenidor</desc>
+  </item_209>
+  <item_209>
+    <id>215</id>
+    <desc>Fan soroll</desc>
+  </item_209>
+  <item_209>
+    <id>214</id>
+    <desc>Netejar lixiviats</desc>
+  </item_209>
+  <item_216>
+    <id>219</id>
+    <desc>Tancar tapa contenidor</desc>
+  </item_216>
+  <item_216>
+    <id>220</id>
+    <desc>Netejar lixiviats</desc>
+  </item_216>
+  <item_216>
+    <id>221</id>
+    <desc>Fan soroll</desc>
+  </item_216>
+  <item_216>
+    <id>217</id>
+    <desc>Buidar contenidor Orgànica ple</desc>
+  </item_216>
+  <item_216>
+    <id>218</id>
+    <desc>Buidar contenidor Orgànica comerç ple</desc>
+  </item_216>
+  <item_222>
+    <id>225</id>
+    <desc>Fan soroll</desc>
+  </item_222>
+  <item_222>
+    <id>224</id>
+    <desc>Recollir Paper/Cartró comerç</desc>
+  </item_222>
+  <item_222>
+    <id>223</id>
+    <desc>Buidar contenidor Paper/Cartró ple</desc>
+  </item_222>
+  <item_226>
+    <id>227</id>
+    <desc>Buidar contenidor Envasos ple</desc>
+  </item_226>
+  <item_226>
+    <id>228</id>
+    <desc>Fan soroll</desc>
+  </item_226>
+  <item_229>
+    <id>231</id>
+    <desc>Fan soroll</desc>
+  </item_229>
+  <item_229>
+    <id>230</id>
+    <desc>Buidar contenidor Vidre ple</desc>
+  </item_229>
+  <item_232>
+    <id>234</id>
+    <desc>Buidar Cont. Piles</desc>
+  </item_232>
+  <item_232>
+    <id>236</id>
+    <desc>Portar papera paper</desc>
+  </item_232>
+  <item_232>
+    <id>235</id>
+    <desc>Portar Cont. Piles</desc>
+  </item_232>
+  <item_232>
+    <id>233</id>
+    <desc>Buidar Cont. Roba </desc>
+  </item_232>
+  <item_238>
+    <id>239</id>
+    <desc>Campanya millora</desc>
+  </item_238>
+  <item_240>
+    <id>241</id>
+    <desc>Campanya divulgació</desc>
+  </item_240>
+  <item_242>
+    <id>243</id>
+    <desc>Subvenció </desc>
+  </item_242>
+  <item_244>
+    <id>245</id>
+    <desc>Estudi</desc>
+  </item_244>
+  <item_246>
+    <id>846</id>
+    <desc>Recollida Cartró Grans Generadors</desc>
+  </item_246>
+  <item_247>
+    <id>847</id>
+    <desc>Recollida Envasos Domiciliaria</desc>
+  </item_247>
+  <item_248>
+    <id>848</id>
+    <desc>Recollida Vidre Domiciliaria</desc>
+  </item_248>
+  <item_249>
+    <id>849</id>
+    <desc>Recollida PaP Rebuig Centre</desc>
+  </item_249>
+  <item_250>
+    <id>850</id>
+    <desc>Recollida Roba </desc>
+  </item_250>
+  <item_251>
+    <id>851</id>
+    <desc>Servei Minideixalleria</desc>
+  </item_251>
+  <item_252>
+    <id>261</id>
+    <desc>olors cremat</desc>
+  </item_252>
+  <item_252>
+    <id>260</id>
+    <desc>endolls o interruptors trencats</desc>
+  </item_252>
+  <item_252>
+    <id>259</id>
+    <desc>llums fosos</desc>
+  </item_252>
+  <item_252>
+    <id>258</id>
+    <desc>Llums avariats o trencats</desc>
+  </item_252>
+  <item_252>
+    <id>257</id>
+    <desc>Resposta a particular</desc>
+  </item_252>
+  <item_252>
+    <id>256</id>
+    <desc>Reclamació Patrimonial</desc>
+  </item_252>
+  <item_252>
+    <id>255</id>
+    <desc>Informe Tècnic</desc>
+  </item_252>
+  <item_252>
+    <id>266</id>
+    <desc>Altres problemes</desc>
+  </item_252>
+  <item_252>
+    <id>265</id>
+    <desc>canviar pany armari</desc>
+  </item_252>
+  <item_252>
+    <id>262</id>
+    <desc>Programar inspeccions</desc>
+  </item_252>
+  <item_252>
+    <id>263</id>
+    <desc>Programar revisions</desc>
+  </item_252>
+  <item_252>
+    <id>264</id>
+    <desc>Programar controls horàris</desc>
+  </item_252>
+  <item_267>
+    <id>268</id>
+    <desc>Avaria punt connecció</desc>
+  </item_267>
+  <item_267>
+    <id>269</id>
+    <desc>Avaria aparell telefonia</desc>
+  </item_267>
+  <item_267>
+    <id>270</id>
+    <desc>No va la xarxa</desc>
+  </item_267>
+  <item_267>
+    <id>271</id>
+    <desc>No va el telèfon</desc>
+  </item_267>
+  <item_267>
+    <id>272</id>
+    <desc>No va el porter automàtic</desc>
+  </item_267>
+  <item_267>
+    <id>273</id>
+    <desc>No va la megafonia</desc>
+  </item_267>
+  <item_267>
+    <id>274</id>
+    <desc>No va el intercomunicador</desc>
+  </item_267>
+  <item_267>
+    <id>275</id>
+    <desc>Altres problemes tel. I comunicació</desc>
+  </item_267>
+  <item_276>
+    <id>282</id>
+    <desc>neteja filtres</desc>
+  </item_276>
+  <item_276>
+    <id>281</id>
+    <desc>Programar inspeccions legionela</desc>
+  </item_276>
+  <item_276>
+    <id>280</id>
+    <desc>no va descàrrega lavabo</desc>
+  </item_276>
+  <item_276>
+    <id>284</id>
+    <desc>canviar pany armari</desc>
+  </item_276>
+  <item_276>
+    <id>279</id>
+    <desc>Lavabos perden</desc>
+  </item_276>
+  <item_276>
+    <id>277</id>
+    <desc>Perdua aigua </desc>
+  </item_276>
+  <item_276>
+    <id>286</id>
+    <desc>Altres problemes</desc>
+  </item_276>
+  <item_276>
+    <id>285</id>
+    <desc>Canviar hidrosfera</desc>
+  </item_276>
+  <item_276>
+    <id>278</id>
+    <desc>No hi ha aigua</desc>
+  </item_276>
+  <item_276>
+    <id>283</id>
+    <desc>No va grup de presió</desc>
+  </item_276>
+  <item_287>
+    <id>291</id>
+    <desc>Programar revisions</desc>
+  </item_287>
+  <item_287>
+    <id>292</id>
+    <desc>Altres problemes</desc>
+  </item_287>
+  <item_287>
+    <id>293</id>
+    <desc>canviar pany armari</desc>
+  </item_287>
+  <item_287>
+    <id>289</id>
+    <desc>No hi ha gas</desc>
+  </item_287>
+  <item_287>
+    <id>290</id>
+    <desc>Programar inspeccions</desc>
+  </item_287>
+  <item_287>
+    <id>288</id>
+    <desc>Fuga de gas</desc>
+  </item_287>
+  <item_294>
+    <id>298</id>
+    <desc>Altres mal funcionaments</desc>
+  </item_294>
+  <item_294>
+    <id>297</id>
+    <desc>Programar revisions</desc>
+  </item_294>
+  <item_294>
+    <id>296</id>
+    <desc>Programar nous usuaris</desc>
+  </item_294>
+  <item_294>
+    <id>295</id>
+    <desc>No funciona</desc>
+  </item_294>
+  <item_299>
+    <id>300</id>
+    <desc>Llums fosos</desc>
+  </item_299>
+  <item_299>
+    <id>308</id>
+    <desc>Programar revisions</desc>
+  </item_299>
+  <item_299>
+    <id>307</id>
+    <desc>Programar inspeccions</desc>
+  </item_299>
+  <item_299>
+    <id>306</id>
+    <desc>Altres problemes</desc>
+  </item_299>
+  <item_299>
+    <id>305</id>
+    <desc>No funciona bé</desc>
+  </item_299>
+  <item_299>
+    <id>304</id>
+    <desc>Ascensor fa soroll</desc>
+  </item_299>
+  <item_299>
+    <id>301</id>
+    <desc>Ascensor parat</desc>
+  </item_299>
+  <item_299>
+    <id>302</id>
+    <desc>No para bé a les parades</desc>
+  </item_299>
+  <item_299>
+    <id>303</id>
+    <desc>Persona atrapada dins</desc>
+  </item_299>
+  <item_309>
+    <id>310</id>
+    <desc>No funciona calefacció</desc>
+  </item_309>
+  <item_309>
+    <id>311</id>
+    <desc>Radiador no escalfa</desc>
+  </item_309>
+  <item_309>
+    <id>312</id>
+    <desc>No funciona climatització</desc>
+  </item_309>
+  <item_309>
+    <id>313</id>
+    <desc>Programar inpeccions</desc>
+  </item_309>
+  <item_309>
+    <id>314</id>
+    <desc>Programar revisions calefacció</desc>
+  </item_309>
+  <item_309>
+    <id>315</id>
+    <desc>Programar revisions climatització</desc>
+  </item_309>
+  <item_309>
+    <id>323</id>
+    <desc>Programar controls horaris i de temperatura calefaccions</desc>
+  </item_309>
+  <item_309>
+    <id>317</id>
+    <desc>radiadors perden</desc>
+  </item_309>
+  <item_309>
+    <id>318</id>
+    <desc>No va aigua calenta</desc>
+  </item_309>
+  <item_309>
+    <id>319</id>
+    <desc>elements calefacció despenjats</desc>
+  </item_309>
+  <item_309>
+    <id>320</id>
+    <desc>Pèrdues aigua climatitzadors</desc>
+  </item_309>
+  <item_309>
+    <id>321</id>
+    <desc>olors climatització</desc>
+  </item_309>
+  <item_309>
+    <id>322</id>
+    <desc>Programar controls horaris i de temperatura climatitzadors</desc>
+  </item_309>
+  <item_309>
+    <id>316</id>
+    <desc>Netejar filtres aires</desc>
+  </item_309>
+  <item_324>
+    <id>330</id>
+    <desc>Pintar tancaments</desc>
+  </item_324>
+  <item_324>
+    <id>331</id>
+    <desc>Pintar paret</desc>
+  </item_324>
+  <item_324>
+    <id>332</id>
+    <desc>Pintar sala o estança</desc>
+  </item_324>
+  <item_324>
+    <id>333</id>
+    <desc>Pintar sostre</desc>
+  </item_324>
+  <item_324>
+    <id>334</id>
+    <desc>Reparar paret </desc>
+  </item_324>
+  <item_324>
+    <id>335</id>
+    <desc>Portes no tanquen</desc>
+  </item_324>
+  <item_324>
+    <id>336</id>
+    <desc>Esquerdes</desc>
+  </item_324>
+  <item_324>
+    <id>337</id>
+    <desc>Reparar sostre</desc>
+  </item_324>
+  <item_324>
+    <id>338</id>
+    <desc>Goteres o humitat</desc>
+  </item_324>
+  <item_324>
+    <id>339</id>
+    <desc>Altres reparacions tancaments</desc>
+  </item_324>
+  <item_324>
+    <id>340</id>
+    <desc>Altres reparacions acabats</desc>
+  </item_324>
+  <item_324>
+    <id>325</id>
+    <desc>Canviar panys</desc>
+  </item_324>
+  <item_324>
+    <id>326</id>
+    <desc>canviar vidres</desc>
+  </item_324>
+  <item_324>
+    <id>327</id>
+    <desc>Portes trencades o caigudes</desc>
+  </item_324>
+  <item_324>
+    <id>328</id>
+    <desc>Finestres no tanquen</desc>
+  </item_324>
+  <item_324>
+    <id>329</id>
+    <desc>Reparar cortines</desc>
+  </item_324>
+  <item_341>
+    <id>345</id>
+    <desc>Muntar mobiliari</desc>
+  </item_341>
+  <item_341>
+    <id>344</id>
+    <desc>Canviar panys</desc>
+  </item_341>
+  <item_341>
+    <id>343</id>
+    <desc>Trasllat mobiliari</desc>
+  </item_341>
+  <item_341>
+    <id>347</id>
+    <desc>Portar a deixelleria</desc>
+  </item_341>
+  <item_341>
+    <id>342</id>
+    <desc>Reparar mobiliari</desc>
+  </item_341>
+  <item_341>
+    <id>346</id>
+    <desc>Penjat mobiliari</desc>
+  </item_341>
+  <item_348>
+    <id>349</id>
+    <desc>Programar revisions</desc>
+  </item_348>
+  <item_348>
+    <id>350</id>
+    <desc>Terra tallat</desc>
+  </item_348>
+  <item_348>
+    <id>352</id>
+    <desc>altres parallamps</desc>
+  </item_348>
+  <item_348>
+    <id>351</id>
+    <desc>parallamps caigut</desc>
+  </item_348>
+  <item_353>
+    <id>354</id>
+    <desc>No funcionen</desc>
+  </item_353>
+  <item_355>
+    <id>358</id>
+    <desc>Problemes anclatge</desc>
+  </item_355>
+  <item_355>
+    <id>357</id>
+    <desc>Reparar jocs</desc>
+  </item_355>
+  <item_355>
+    <id>359</id>
+    <desc>Altres problemes</desc>
+  </item_355>
+  <item_355>
+    <id>356</id>
+    <desc>Revisar estat jocs</desc>
+  </item_355>
+  <item_360>
+    <id>363</id>
+    <desc>Problemes anclatge</desc>
+  </item_360>
+  <item_360>
+    <id>362</id>
+    <desc>Reparar jocs</desc>
+  </item_360>
+  <item_360>
+    <id>361</id>
+    <desc>Revisar estat jocs</desc>
+  </item_360>
+  <item_360>
+    <id>364</id>
+    <desc>Altres problemes</desc>
+  </item_360>
+  <item_365>
+    <id>377</id>
+    <desc>Altres problemes</desc>
+  </item_365>
+  <item_365>
+    <id>376</id>
+    <desc>Perdues per les juntes</desc>
+  </item_365>
+  <item_365>
+    <id>375</id>
+    <desc>Netejar embornals</desc>
+  </item_365>
+  <item_365>
+    <id>374</id>
+    <desc>Surten humitats</desc>
+  </item_365>
+  <item_365>
+    <id>372</id>
+    <desc>Extintor caducat</desc>
+  </item_365>
+  <item_365>
+    <id>373</id>
+    <desc>Extintor desaparegut</desc>
+  </item_365>
+  <item_365>
+    <id>371</id>
+    <desc>Mànegues BIE perden</desc>
+  </item_365>
+  <item_365>
+    <id>370</id>
+    <desc>Mànegues BIE no tenen presió</desc>
+  </item_365>
+  <item_365>
+    <id>369</id>
+    <desc>Grup de presió no va</desc>
+  </item_365>
+  <item_365>
+    <id>368</id>
+    <desc>Extintor buit</desc>
+  </item_365>
+  <item_365>
+    <id>367</id>
+    <desc>Canviar ubcacions</desc>
+  </item_365>
+  <item_365>
+    <id>366</id>
+    <desc>Programar revisions</desc>
+  </item_365>
+  <item_378>
+    <id>379</id>
+    <desc>Poda arbres</desc>
+  </item_378>
+  <item_378>
+    <id>380</id>
+    <desc>Segar</desc>
+  </item_378>
+  <item_378>
+    <id>381</id>
+    <desc>Remoure i omplir sorrals</desc>
+  </item_378>
+  <item_378>
+    <id>382</id>
+    <desc>Falta saulò</desc>
+  </item_378>
+  <item_378>
+    <id>386</id>
+    <desc>mal estat tanca vegetal</desc>
+  </item_378>
+  <item_378>
+    <id>384</id>
+    <desc>Treure arbres</desc>
+  </item_378>
+  <item_378>
+    <id>385</id>
+    <desc>Treure zones verdes</desc>
+  </item_378>
+  <item_378>
+    <id>387</id>
+    <desc>Altres problemes</desc>
+  </item_378>
+  <item_378>
+    <id>383</id>
+    <desc>manteniment jardineres</desc>
+  </item_378>
+  <item_388>
+    <id>390</id>
+    <desc>Revisions</desc>
+  </item_388>
+  <item_388>
+    <id>389</id>
+    <desc>Goteres</desc>
+  </item_388>
+  <item_388>
+    <id>391</id>
+    <desc>Innundades</desc>
+  </item_388>
+  <item_388>
+    <id>392</id>
+    <desc>Brutes</desc>
+  </item_388>
+  <item_388>
+    <id>393</id>
+    <desc>Arrencades</desc>
+  </item_388>
+  <item_388>
+    <id>394</id>
+    <desc>Altres problemes</desc>
+  </item_388>
+  <item_395>
+    <id>398</id>
+    <desc>Esquerdes</desc>
+  </item_395>
+  <item_395>
+    <id>397</id>
+    <desc>Pintar</desc>
+  </item_395>
+  <item_395>
+    <id>396</id>
+    <desc>Revisions</desc>
+  </item_395>
+  <item_395>
+    <id>399</id>
+    <desc>Arrebossat en mal estat</desc>
+  </item_395>
+  <item_395>
+    <id>404</id>
+    <desc>Altres problemes</desc>
+  </item_395>
+  <item_395>
+    <id>401</id>
+    <desc>Despreniments façana</desc>
+  </item_395>
+  <item_395>
+    <id>402</id>
+    <desc>Altres despreniments</desc>
+  </item_395>
+  <item_395>
+    <id>403</id>
+    <desc>reixes i baranes en mal estat</desc>
+  </item_395>
+  <item_395>
+    <id>400</id>
+    <desc>Despreniments cornisa</desc>
+  </item_395>
+  <item_405>
+    <id>408</id>
+    <desc>Vibracions</desc>
+  </item_405>
+  <item_405>
+    <id>407</id>
+    <desc>Esquerdes</desc>
+  </item_405>
+  <item_405>
+    <id>409</id>
+    <desc>Moviments</desc>
+  </item_405>
+  <item_405>
+    <id>406</id>
+    <desc>Programar revisions</desc>
+  </item_405>
+  <item_410>
+    <id>418</id>
+    <desc>Entra aire</desc>
+  </item_410>
+  <item_410>
+    <id>416</id>
+    <desc>Pintar tancaments</desc>
+  </item_410>
+  <item_410>
+    <id>417</id>
+    <desc>Portes no tanquen</desc>
+  </item_410>
+  <item_410>
+    <id>422</id>
+    <desc>Altres problemes</desc>
+  </item_410>
+  <item_410>
+    <id>421</id>
+    <desc>Pintat tanques</desc>
+  </item_410>
+  <item_410>
+    <id>420</id>
+    <desc>Tanques en mal estat</desc>
+  </item_410>
+  <item_410>
+    <id>411</id>
+    <desc>Canviar panys</desc>
+  </item_410>
+  <item_410>
+    <id>412</id>
+    <desc>canviar vidres</desc>
+  </item_410>
+  <item_410>
+    <id>413</id>
+    <desc>Portes trencades o caigudes</desc>
+  </item_410>
+  <item_410>
+    <id>414</id>
+    <desc>Finestres no tanquen</desc>
+  </item_410>
+  <item_410>
+    <id>415</id>
+    <desc>Reparar persianes</desc>
+  </item_410>
+  <item_410>
+    <id>419</id>
+    <desc>Entra aigua</desc>
+  </item_410>
+  <item_423>
+    <id>426</id>
+    <desc>Pintar</desc>
+  </item_423>
+  <item_423>
+    <id>425</id>
+    <desc>Mobiliàri desclavat</desc>
+  </item_423>
+  <item_423>
+    <id>424</id>
+    <desc>Mobiliàri trencat</desc>
+  </item_423>
+  <item_423>
+    <id>427</id>
+    <desc>Altres problemes</desc>
+  </item_423>
+  <item_428>
+    <id>429</id>
+    <desc>Esquerdes</desc>
+  </item_428>
+  <item_428>
+    <id>430</id>
+    <desc>Trencat</desc>
+  </item_428>
+  <item_428>
+    <id>435</id>
+    <desc>Altres problemes</desc>
+  </item_428>
+  <item_428>
+    <id>434</id>
+    <desc>Problemes baranes</desc>
+  </item_428>
+  <item_428>
+    <id>433</id>
+    <desc>problemes graons</desc>
+  </item_428>
+  <item_428>
+    <id>432</id>
+    <desc>Problemes embornals</desc>
+  </item_428>
+  <item_428>
+    <id>431</id>
+    <desc>Enfonsat</desc>
+  </item_428>
+  <item_437>
+    <id>438</id>
+    <desc>netejar per bruts</desc>
+  </item_437>
+  <item_437>
+    <id>439</id>
+    <desc>abrillantar</desc>
+  </item_437>
+  <item_437>
+    <id>440</id>
+    <desc>Elements enganxats</desc>
+  </item_437>
+  <item_437>
+    <id>441</id>
+    <desc>altres problemes</desc>
+  </item_437>
+  <item_442>
+    <id>443</id>
+    <desc>netejar per bruts</desc>
+  </item_442>
+  <item_442>
+    <id>444</id>
+    <desc>pintades o elemnts enganxats</desc>
+  </item_442>
+  <item_442>
+    <id>445</id>
+    <desc>altres problemes</desc>
+  </item_442>
+  <item_446>
+    <id>447</id>
+    <desc>terra al paviment</desc>
+  </item_446>
+  <item_446>
+    <id>448</id>
+    <desc>fulles al pati</desc>
+  </item_446>
+  <item_446>
+    <id>451</id>
+    <desc>papereres plenes</desc>
+  </item_446>
+  <item_446>
+    <id>452</id>
+    <desc>altres problemes</desc>
+  </item_446>
+  <item_446>
+    <id>450</id>
+    <desc>deixalles en racons</desc>
+  </item_446>
+  <item_446>
+    <id>449</id>
+    <desc>elements pati bruts</desc>
+  </item_446>
+  <item_453>
+    <id>456</id>
+    <desc>pintades o elements enganxats</desc>
+  </item_453>
+  <item_453>
+    <id>454</id>
+    <desc>pols als mobles</desc>
+  </item_453>
+  <item_453>
+    <id>455</id>
+    <desc>racons bruts</desc>
+  </item_453>
+  <item_453>
+    <id>457</id>
+    <desc>altres problemes</desc>
+  </item_453>
+  <item_458>
+    <id>463</id>
+    <desc>piques brutes</desc>
+  </item_458>
+  <item_458>
+    <id>464</id>
+    <desc>falta paper</desc>
+  </item_458>
+  <item_458>
+    <id>465</id>
+    <desc>falta sabó</desc>
+  </item_458>
+  <item_458>
+    <id>466</id>
+    <desc>altres problemes</desc>
+  </item_458>
+  <item_458>
+    <id>459</id>
+    <desc>Wc brut</desc>
+  </item_458>
+  <item_458>
+    <id>460</id>
+    <desc>rajoles brutes </desc>
+  </item_458>
+  <item_458>
+    <id>461</id>
+    <desc>pintades o elements enganxats</desc>
+  </item_458>
+  <item_458>
+    <id>462</id>
+    <desc>Dutxes brutes</desc>
+  </item_458>
+  <item_467>
+    <id>468</id>
+    <desc>parets brutes</desc>
+  </item_467>
+  <item_467>
+    <id>469</id>
+    <desc>pintades o elements enganxats</desc>
+  </item_467>
+  <item_470>
+    <id>471</id>
+    <desc>portes brutes</desc>
+  </item_470>
+  <item_470>
+    <id>472</id>
+    <desc>passamants bruts</desc>
+  </item_470>
+  <item_470>
+    <id>473</id>
+    <desc>pintades o elements enganxats</desc>
+  </item_470>
+  <item_470>
+    <id>474</id>
+    <desc>altres problemes</desc>
+  </item_470>
+  <item_475>
+    <id>476</id>
+    <desc>radiadors bruts</desc>
+  </item_475>
+  <item_475>
+    <id>481</id>
+    <desc>Contenidors bruts</desc>
+  </item_475>
+  <item_475>
+    <id>477</id>
+    <desc>llums bruts</desc>
+  </item_475>
+  <item_475>
+    <id>478</id>
+    <desc>pintades o elements enganxats</desc>
+  </item_475>
+  <item_475>
+    <id>479</id>
+    <desc>altres problemes</desc>
+  </item_475>
+  <item_475>
+    <id>480</id>
+    <desc>contenidors trencats</desc>
+  </item_475>
+  <item_483>
+    <id>852</id>
+    <desc>Actes</desc>
+  </item_483>
+  <item_484>
+    <id>853</id>
+    <desc>Casaments </desc>
+  </item_484>
+  <item_485>
+    <id>854</id>
+    <desc>Eleccions</desc>
+  </item_485>
+  <item_486>
+    <id>855</id>
+    <desc>Festa Major</desc>
+  </item_486>
+  <item_487>
+    <id>488</id>
+    <desc>falta elements neteja ( escombra, fregona, etc )</desc>
+  </item_487>
+  <item_487>
+    <id>490</id>
+    <desc>falta material neteja per llars ( guants, paper, etc)</desc>
+  </item_487>
+  <item_487>
+    <id>491</id>
+    <desc>falten productes biologics per les llars</desc>
+  </item_487>
+  <item_487>
+    <id>489</id>
+    <desc>falten bosses</desc>
+  </item_487>
+  <item_492>
+    <id>493</id>
+    <desc>Augmentar neteja</desc>
+  </item_492>
+  <item_492>
+    <id>494</id>
+    <desc>Abrillantar</desc>
+  </item_492>
+  <item_492>
+    <id>495</id>
+    <desc>Millorar neteja</desc>
+  </item_492>
+  <item_496>
+    <id>497</id>
+    <desc>Augmentar neteja</desc>
+  </item_496>
+  <item_498>
+    <id>500</id>
+    <desc>Afegir nous espais</desc>
+  </item_498>
+  <item_498>
+    <id>499</id>
+    <desc>Augmentar neteja</desc>
+  </item_498>
+  <item_501>
+    <id>502</id>
+    <desc>Augmentar neteja</desc>
+  </item_501>
+  <item_501>
+    <id>503</id>
+    <desc>Afegir nous mobles</desc>
+  </item_501>
+  <item_504>
+    <id>506</id>
+    <desc>Afegir nous espais</desc>
+  </item_504>
+  <item_504>
+    <id>505</id>
+    <desc>Augmentar neteja</desc>
+  </item_504>
+  <item_507>
+    <id>508</id>
+    <desc>Augmentar neteja</desc>
+  </item_507>
+  <item_507>
+    <id>509</id>
+    <desc>Incloure nou ascensor</desc>
+  </item_507>
+  <item_510>
+    <id>512</id>
+    <desc>Afegir nous tancaments</desc>
+  </item_510>
+  <item_510>
+    <id>511</id>
+    <desc>Augmentar neteja</desc>
+  </item_510>
+  <item_513>
+    <id>515</id>
+    <desc>Augmentar/decrementar contenidors</desc>
+  </item_513>
+  <item_513>
+    <id>516</id>
+    <desc>Afegir nous equipaments</desc>
+  </item_513>
+  <item_513>
+    <id>514</id>
+    <desc>Augmentar neteja</desc>
+  </item_513>
+  <item_517>
+    <id>856</id>
+    <desc>Neteja nous equipaments</desc>
+  </item_517>
+  <item_518>
+    <id>857</id>
+    <desc>Ampliar nous espais</desc>
+  </item_518>
+  <item_520>
+    <id>858</id>
+    <desc>Informes</desc>
+  </item_520>
+  <item_521>
+    <id>859</id>
+    <desc>Respostes</desc>
+  </item_521>
+  <item_522>
+    <id>860</id>
+    <desc>Estudis </desc>
+  </item_522>
+  <item_523>
+    <id>861</id>
+    <desc>Requeriments externs</desc>
+  </item_523>
+  <item_525>
+    <id>526</id>
+    <desc>demanar dades</desc>
+  </item_525>
+  <item_527>
+    <id>528</id>
+    <desc>demanar dades</desc>
+  </item_527>
+  <item_529>
+    <id>530</id>
+    <desc>Pany trencat</desc>
+  </item_529>
+  <item_529>
+    <id>531</id>
+    <desc>No es troba comptador</desc>
+  </item_529>
+  <item_533>
+    <id>862</id>
+    <desc>Informes</desc>
+  </item_533>
+  <item_534>
+    <id>863</id>
+    <desc>Respostes</desc>
+  </item_534>
+  <item_535>
+    <id>864</id>
+    <desc>Estudis </desc>
+  </item_535>
+  <item_536>
+    <id>865</id>
+    <desc>Requeriments externs</desc>
+  </item_536>
+  <item_537>
+    <id>866</id>
+    <desc>Nous subministres</desc>
+  </item_537>
+  <item_539>
+    <id>540</id>
+    <desc>Canviar enllumenat</desc>
+  </item_539>
+  <item_539>
+    <id>541</id>
+    <desc>Posar més endolls</desc>
+  </item_539>
+  <item_539>
+    <id>542</id>
+    <desc>Ampliar instal·lació</desc>
+  </item_539>
+  <item_539>
+    <id>543</id>
+    <desc>Millores enllumenat</desc>
+  </item_539>
+  <item_539>
+    <id>544</id>
+    <desc>Altres requeriments</desc>
+  </item_539>
+  <item_545>
+    <id>548</id>
+    <desc>Noves instal·lacions megafonia</desc>
+  </item_545>
+  <item_545>
+    <id>547</id>
+    <desc>Canviar aparell de telèfon</desc>
+  </item_545>
+  <item_545>
+    <id>546</id>
+    <desc>Ampliar els punts de connexió</desc>
+  </item_545>
+  <item_545>
+    <id>549</id>
+    <desc>Noves instal·lacions intercomunicació</desc>
+  </item_545>
+  <item_545>
+    <id>551</id>
+    <desc>altres requeriments</desc>
+  </item_545>
+  <item_545>
+    <id>550</id>
+    <desc>Nova xarxa de dades</desc>
+  </item_545>
+  <item_552>
+    <id>553</id>
+    <desc>Canviar piques</desc>
+  </item_552>
+  <item_552>
+    <id>554</id>
+    <desc>Canviar aixetes</desc>
+  </item_552>
+  <item_552>
+    <id>555</id>
+    <desc>Instal·lar nous lavabos</desc>
+  </item_552>
+  <item_552>
+    <id>556</id>
+    <desc>canviar escomesa i/o comptador</desc>
+  </item_552>
+  <item_552>
+    <id>557</id>
+    <desc>Altres requeriments</desc>
+  </item_552>
+  <item_558>
+    <id>559</id>
+    <desc>Instal·lar nous punts de subministre</desc>
+  </item_558>
+  <item_558>
+    <id>561</id>
+    <desc>Altres requeriments</desc>
+  </item_558>
+  <item_558>
+    <id>560</id>
+    <desc>Modificar instal·lació</desc>
+  </item_558>
+  <item_562>
+    <id>563</id>
+    <desc>Instal·lar nova alarma</desc>
+  </item_562>
+  <item_562>
+    <id>564</id>
+    <desc>Ampliar detectors</desc>
+  </item_562>
+  <item_562>
+    <id>565</id>
+    <desc>Altres requeriments</desc>
+  </item_562>
+  <item_566>
+    <id>567</id>
+    <desc>Requeriments</desc>
+  </item_566>
+  <item_568>
+    <id>574</id>
+    <desc>Instal·lar progamadors </desc>
+  </item_568>
+  <item_568>
+    <id>573</id>
+    <desc>instal·lar aigua calenta</desc>
+  </item_568>
+  <item_568>
+    <id>572</id>
+    <desc>Ampliar aigua calenta</desc>
+  </item_568>
+  <item_568>
+    <id>571</id>
+    <desc>Instal·lar nova climatització</desc>
+  </item_568>
+  <item_568>
+    <id>570</id>
+    <desc>Instal·lar nova calefacció</desc>
+  </item_568>
+  <item_568>
+    <id>569</id>
+    <desc>Ampliar instal·lació calefacció</desc>
+  </item_568>
+  <item_568>
+    <id>575</id>
+    <desc>Altres requeriments</desc>
+  </item_568>
+  <item_576>
+    <id>582</id>
+    <desc>Pintar</desc>
+  </item_576>
+  <item_576>
+    <id>581</id>
+    <desc>Posar noves cortines</desc>
+  </item_576>
+  <item_576>
+    <id>580</id>
+    <desc>canviar divisió dependències</desc>
+  </item_576>
+  <item_576>
+    <id>579</id>
+    <desc>Posar arrambladors</desc>
+  </item_576>
+  <item_576>
+    <id>578</id>
+    <desc>Canviar tancaments</desc>
+  </item_576>
+  <item_576>
+    <id>577</id>
+    <desc>Posar nous tancaments</desc>
+  </item_576>
+  <item_576>
+    <id>583</id>
+    <desc>Canviar sostre</desc>
+  </item_576>
+  <item_576>
+    <id>584</id>
+    <desc>Altres requeriments</desc>
+  </item_576>
+  <item_585>
+    <id>586</id>
+    <desc>Adquirir nou mobiliari</desc>
+  </item_585>
+  <item_585>
+    <id>587</id>
+    <desc>Instal·lar nou mobiliari</desc>
+  </item_585>
+  <item_585>
+    <id>588</id>
+    <desc>Trasllat mobiliari</desc>
+  </item_585>
+  <item_585>
+    <id>589</id>
+    <desc>Altres requeriments</desc>
+  </item_585>
+  <item_590>
+    <id>591</id>
+    <desc>Altres requeriments</desc>
+  </item_590>
+  <item_592>
+    <id>593</id>
+    <desc>Adquirir nous equips</desc>
+  </item_592>
+  <item_592>
+    <id>594</id>
+    <desc>Instal·lar nous equips</desc>
+  </item_592>
+  <item_592>
+    <id>596</id>
+    <desc>Altres requeriments</desc>
+  </item_592>
+  <item_592>
+    <id>595</id>
+    <desc>Trasllat equips</desc>
+  </item_592>
+  <item_597>
+    <id>598</id>
+    <desc>Adquirir nous jocs</desc>
+  </item_597>
+  <item_597>
+    <id>600</id>
+    <desc>Moure jocs existents</desc>
+  </item_597>
+  <item_597>
+    <id>599</id>
+    <desc>Instal·lar nous jocs</desc>
+  </item_597>
+  <item_597>
+    <id>601</id>
+    <desc>altres requeriments</desc>
+  </item_597>
+  <item_602>
+    <id>603</id>
+    <desc>Adquirir nous jocs</desc>
+  </item_602>
+  <item_602>
+    <id>606</id>
+    <desc>altres requeriments</desc>
+  </item_602>
+  <item_602>
+    <id>605</id>
+    <desc>Moure jocs existents</desc>
+  </item_602>
+  <item_602>
+    <id>604</id>
+    <desc>Instal·lar nous jocs</desc>
+  </item_602>
+  <item_607>
+    <id>612</id>
+    <desc>Ampliar mànegues BIE</desc>
+  </item_607>
+  <item_607>
+    <id>613</id>
+    <desc>Ampliar alarma contar incendis</desc>
+  </item_607>
+  <item_607>
+    <id>614</id>
+    <desc>altres requeriments</desc>
+  </item_607>
+  <item_607>
+    <id>615</id>
+    <desc>Instal·lar nous baixants</desc>
+  </item_607>
+  <item_607>
+    <id>616</id>
+    <desc>Instal·lar nous conductes</desc>
+  </item_607>
+  <item_607>
+    <id>611</id>
+    <desc>Instal·lar grup de presió</desc>
+  </item_607>
+  <item_607>
+    <id>617</id>
+    <desc>altres requeriments</desc>
+  </item_607>
+  <item_607>
+    <id>609</id>
+    <desc>Posar mànegues BIE</desc>
+  </item_607>
+  <item_607>
+    <id>608</id>
+    <desc>Posar més extintors</desc>
+  </item_607>
+  <item_607>
+    <id>610</id>
+    <desc>Instal·lar alarma contra incendis</desc>
+  </item_607>
+  <item_618>
+    <id>621</id>
+    <desc>Posar nous horts</desc>
+  </item_618>
+  <item_618>
+    <id>622</id>
+    <desc>Canviar zona sauló</desc>
+  </item_618>
+  <item_618>
+    <id>623</id>
+    <desc>Posar jardineres</desc>
+  </item_618>
+  <item_618>
+    <id>624</id>
+    <desc>Posar tanques vegetals</desc>
+  </item_618>
+  <item_618>
+    <id>625</id>
+    <desc>altres requeriments</desc>
+  </item_618>
+  <item_618>
+    <id>619</id>
+    <desc>Plantar nous arbres</desc>
+  </item_618>
+  <item_618>
+    <id>620</id>
+    <desc>Posar noves zones verdes</desc>
+  </item_618>
+  <item_626>
+    <id>629</id>
+    <desc>Modificar cobertes</desc>
+  </item_626>
+  <item_626>
+    <id>630</id>
+    <desc>Altres requeriments</desc>
+  </item_626>
+  <item_626>
+    <id>627</id>
+    <desc>Canviar cobertes</desc>
+  </item_626>
+  <item_626>
+    <id>628</id>
+    <desc>Aïllar cobertes</desc>
+  </item_626>
+  <item_631>
+    <id>633</id>
+    <desc>Pintar</desc>
+  </item_631>
+  <item_631>
+    <id>634</id>
+    <desc>Rehabilitar elements</desc>
+  </item_631>
+  <item_631>
+    <id>635</id>
+    <desc>Altres requeriments</desc>
+  </item_631>
+  <item_631>
+    <id>632</id>
+    <desc>Rehabilitar façana</desc>
+  </item_631>
+  <item_636>
+    <id>637</id>
+    <desc>Altres requeriments</desc>
+  </item_636>
+  <item_638>
+    <id>642</id>
+    <desc>Canviar panys</desc>
+  </item_638>
+  <item_638>
+    <id>643</id>
+    <desc>canviar tanques</desc>
+  </item_638>
+  <item_638>
+    <id>644</id>
+    <desc>Pintar</desc>
+  </item_638>
+  <item_638>
+    <id>645</id>
+    <desc>Posar nous tancaments</desc>
+  </item_638>
+  <item_638>
+    <id>646</id>
+    <desc>Posar noves tanques</desc>
+  </item_638>
+  <item_638>
+    <id>647</id>
+    <desc>Altres requeriments</desc>
+  </item_638>
+  <item_638>
+    <id>648</id>
+    <desc>Canviar sistemes de tancament</desc>
+  </item_638>
+  <item_638>
+    <id>640</id>
+    <desc>Canviar persianes</desc>
+  </item_638>
+  <item_638>
+    <id>641</id>
+    <desc>Canviar elements de tancaments</desc>
+  </item_638>
+  <item_638>
+    <id>639</id>
+    <desc>Canviar tancaments</desc>
+  </item_638>
+  <item_649>
+    <id>653</id>
+    <desc>Altres requeriments</desc>
+  </item_649>
+  <item_649>
+    <id>652</id>
+    <desc>Trasllat mobiliari</desc>
+  </item_649>
+  <item_649>
+    <id>651</id>
+    <desc>Instal·lar nou mobiliari</desc>
+  </item_649>
+  <item_649>
+    <id>650</id>
+    <desc>Adquirir nou mobiliari</desc>
+  </item_649>
+  <item_654>
+    <id>655</id>
+    <desc>Canviar paviment</desc>
+  </item_654>
+  <item_654>
+    <id>660</id>
+    <desc>Posar elements nous com escales</desc>
+  </item_654>
+  <item_654>
+    <id>659</id>
+    <desc>Modificar desnivells</desc>
+  </item_654>
+  <item_654>
+    <id>658</id>
+    <desc>Posar nous embornals</desc>
+  </item_654>
+  <item_654>
+    <id>657</id>
+    <desc>Posar baranes</desc>
+  </item_654>
+  <item_654>
+    <id>656</id>
+    <desc>Pavimentar de nou</desc>
+  </item_654>
+  <item_654>
+    <id>661</id>
+    <desc>Altres requeriments</desc>
+  </item_654>
+  <item_663>
+    <id>669</id>
+    <desc>QUADRES DE LLUM</desc>
+  </item_663>
+  <item_663>
+    <id>667</id>
+    <desc>FANAL DONA POCA LLUM</desc>
+  </item_663>
+  <item_663>
+    <id>668</id>
+    <desc>ENLLUMENAT DISCONFORME MANTENIMENT</desc>
+  </item_663>
+  <item_663>
+    <id>666</id>
+    <desc>FANAL DETERIORAT</desc>
+  </item_663>
+  <item_663>
+    <id>665</id>
+    <desc>CAIXA REGISTRE / CABLES</desc>
+  </item_663>
+  <item_663>
+    <id>664</id>
+    <desc>ENLLUMENAT INCIDÈNCIES</desc>
+  </item_663>
+  <item_670>
+    <id>673</id>
+    <desc>SKATE PARK INCIDÈNCIES</desc>
+  </item_670>
+  <item_670>
+    <id>672</id>
+    <desc>PORTERIA HANDBOL INCIDÈNCIES</desc>
+  </item_670>
+  <item_670>
+    <id>671</id>
+    <desc>CISTELLA BÀSQUET INCIDÈNCIES</desc>
+  </item_670>
+  <item_674>
+    <id>677</id>
+    <desc>JOC INFANTIL DISCONFORMITAT MANTENIMENT</desc>
+  </item_674>
+  <item_674>
+    <id>676</id>
+    <desc>TERRA AMORTIDOR INCIDÈNCIES</desc>
+  </item_674>
+  <item_674>
+    <id>675</id>
+    <desc>JOC INFANTIL INCIDÈNCIES</desc>
+  </item_674>
+  <item_678>
+    <id>680</id>
+    <desc>TAPES REGISTRE</desc>
+  </item_678>
+  <item_678>
+    <id>679</id>
+    <desc>VORERA INCIDÈNCIES</desc>
+  </item_678>
+  <item_681>
+    <id>683</id>
+    <desc>APARCAMENTS DE FERM PERMEABLE (TERRA) INCIDÈNCIES</desc>
+  </item_681>
+  <item_681>
+    <id>682</id>
+    <desc>APARCAMENTS DE FERM ASFALTAT INCIDÈNCIES</desc>
+  </item_681>
+  <item_684>
+    <id>687</id>
+    <desc>CLAVEGUERAM PUDOR XARXA</desc>
+  </item_684>
+  <item_684>
+    <id>686</id>
+    <desc>TAPA CLAVEGUERAM INCIDÈNCIES</desc>
+  </item_684>
+  <item_684>
+    <id>685</id>
+    <desc>REIXA EMBORNAL INCIDÈNCIES</desc>
+  </item_684>
+  <item_688>
+    <id>689</id>
+    <desc>BANC INCIDÈNCIES</desc>
+  </item_688>
+  <item_688>
+    <id>690</id>
+    <desc>BANC DISCONFORMITAT MANTENIMENT</desc>
+  </item_688>
+  <item_688>
+    <id>691</id>
+    <desc>BANC TRENCAT</desc>
+  </item_688>
+  <item_692>
+    <id>693</id>
+    <desc>BARANA INCIDÈNCIES</desc>
+  </item_692>
+  <item_692>
+    <id>695</id>
+    <desc>BARANA DISCONFORMITAT MANTENIMENT </desc>
+  </item_692>
+  <item_692>
+    <id>694</id>
+    <desc>BARANA CANVI DE LLOC</desc>
+  </item_692>
+  <item_696>
+    <id>697</id>
+    <desc>CALÇADA INCIDÈNCIES</desc>
+  </item_696>
+  <item_696>
+    <id>698</id>
+    <desc>CALÇADA TAPA/REGISTRE INSTAL·LACIONS</desc>
+  </item_696>
+  <item_696>
+    <id>699</id>
+    <desc>CALÇADA DISCONFORMITAT MANTENIMENT</desc>
+  </item_696>
+  <item_696>
+    <id>700</id>
+    <desc>CALÇADA SINISTRE</desc>
+  </item_696>
+  <item_701>
+    <id>702</id>
+    <desc>CONTENIDOR INCIDÈNCIES</desc>
+  </item_701>
+  <item_701>
+    <id>704</id>
+    <desc>CONTENIDOR DISCONFORMITAT MANTENIMENT</desc>
+  </item_701>
+  <item_701>
+    <id>703</id>
+    <desc>CONTENIDOR TRENCAT</desc>
+  </item_701>
+  <item_705>
+    <id>707</id>
+    <desc>FONT RAJA AIGUA CONTÍNUAMENT</desc>
+  </item_705>
+  <item_705>
+    <id>706</id>
+    <desc>FONT INCIDÈNCIES</desc>
+  </item_705>
+  <item_708>
+    <id>709</id>
+    <desc>MIRALL PARABÒLIC INCIDÈNCIES</desc>
+  </item_708>
+  <item_708>
+    <id>711</id>
+    <desc>MIRALL PARABÒLIC MAL ORIENTAT</desc>
+  </item_708>
+  <item_708>
+    <id>710</id>
+    <desc>MIRALL PARABÒLIC DESAPAREGUT</desc>
+  </item_708>
+  <item_712>
+    <id>867</id>
+    <desc>CARTELLERA INFORMACIÓ CIUTADANA</desc>
+  </item_712>
+  <item_713>
+    <id>715</id>
+    <desc>PAPERERA DISCONFORMITAT MANTENIMENT</desc>
+  </item_713>
+  <item_713>
+    <id>714</id>
+    <desc>PAPERERA INCIDÈNCIES</desc>
+  </item_713>
+  <item_716>
+    <id>718</id>
+    <desc>PILONA DISCONFORMITAT MANTENIMENT</desc>
+  </item_716>
+  <item_716>
+    <id>717</id>
+    <desc>PILONA INCIDÈNCIES</desc>
+  </item_716>
+  <item_719>
+    <id>720</id>
+    <desc>SEMÀFOR NO FUNCIONA I/O HO FA MALAMENT</desc>
+  </item_719>
+  <item_719>
+    <id>723</id>
+    <desc>ALTRES PILONES AUTOMÀTIQUES</desc>
+  </item_719>
+  <item_719>
+    <id>722</id>
+    <desc>PILONA AUTOMÀTICA INCIDÈNCIES</desc>
+  </item_719>
+  <item_719>
+    <id>721</id>
+    <desc>MIRALL INCIDÈNCIES</desc>
+  </item_719>
+  <item_724>
+    <id>725</id>
+    <desc>PLACA CARRER INCIDÈNCIES</desc>
+  </item_724>
+  <item_726>
+    <id>727</id>
+    <desc>SEMÀFOR BOMBETES APAGADES</desc>
+  </item_726>
+  <item_726>
+    <id>730</id>
+    <desc>SEMÀFOR INCIDÈNCIES</desc>
+  </item_726>
+  <item_726>
+    <id>729</id>
+    <desc>SEMÀFOR MAL FUNCIONAMENT</desc>
+  </item_726>
+  <item_726>
+    <id>728</id>
+    <desc>SEMÀFOR GIRAT</desc>
+  </item_726>
+  <item_731>
+    <id>732</id>
+    <desc>BANDES REDUCTORES DE CAUTXÚ</desc>
+  </item_731>
+  <item_731>
+    <id>734</id>
+    <desc>REDUCTORS DE VELOCITAT INCIDÈNCIES</desc>
+  </item_731>
+  <item_731>
+    <id>733</id>
+    <desc>REDUCTORS DE VELOCITAT DISCONFORMITAT MANTENIMENT</desc>
+  </item_731>
+  <item_735>
+    <id>742</id>
+    <desc>PARADA BUS</desc>
+  </item_735>
+  <item_735>
+    <id>736</id>
+    <desc>APARCAMENT MOBILITAT REDUIDA</desc>
+  </item_735>
+  <item_735>
+    <id>737</id>
+    <desc>APARCAMENTS DE MOTOS</desc>
+  </item_735>
+  <item_735>
+    <id>738</id>
+    <desc>CARREGA I DESCARREGA</desc>
+  </item_735>
+  <item_735>
+    <id>745</id>
+    <desc>SENYAL HORITZONTAL INCIDÈNCIES</desc>
+  </item_735>
+  <item_735>
+    <id>740</id>
+    <desc>CEBREJAT PAS DE VIANANTS</desc>
+  </item_735>
+  <item_735>
+    <id>741</id>
+    <desc>MARCA LONGITUDINAL</desc>
+  </item_735>
+  <item_735>
+    <id>743</id>
+    <desc>STOP O CEDIU EL PAS</desc>
+  </item_735>
+  <item_735>
+    <id>744</id>
+    <desc>ZONA BLAVA</desc>
+  </item_735>
+  <item_735>
+    <id>739</id>
+    <desc>CARRIL BICI</desc>
+  </item_735>
+  <item_746>
+    <id>747</id>
+    <desc>CARREGA I DESCARREGA</desc>
+  </item_746>
+  <item_746>
+    <id>762</id>
+    <desc>SENYAL VERTICAL CODI INCIDÈNCIES</desc>
+  </item_746>
+  <item_746>
+    <id>749</id>
+    <desc>CEDIU EL PAS</desc>
+  </item_746>
+  <item_746>
+    <id>750</id>
+    <desc>DIRECCIÓ PROHIBIDA</desc>
+  </item_746>
+  <item_746>
+    <id>751</id>
+    <desc>ESTACIONAMENT</desc>
+  </item_746>
+  <item_746>
+    <id>752</id>
+    <desc>ESTACIONAMENT PROHIBIT</desc>
+  </item_746>
+  <item_746>
+    <id>753</id>
+    <desc>PAS DE VIANANTS</desc>
+  </item_746>
+  <item_746>
+    <id>754</id>
+    <desc>PERILL PAS DE VIANANTS</desc>
+  </item_746>
+  <item_746>
+    <id>755</id>
+    <desc>PERILL ROTONDA</desc>
+  </item_746>
+  <item_746>
+    <id>756</id>
+    <desc>RESSALT</desc>
+  </item_746>
+  <item_746>
+    <id>757</id>
+    <desc>SENTIT OBLIGATORI</desc>
+  </item_746>
+  <item_746>
+    <id>758</id>
+    <desc>STOP</desc>
+  </item_746>
+  <item_746>
+    <id>759</id>
+    <desc>VELOCITAT MAXIMA</desc>
+  </item_746>
+  <item_746>
+    <id>760</id>
+    <desc>ZONA BLAVA</desc>
+  </item_746>
+  <item_746>
+    <id>761</id>
+    <desc>ZONA RESIDENCIAL S-28</desc>
+  </item_746>
+  <item_746>
+    <id>748</id>
+    <desc>CARRIL BICI</desc>
+  </item_746>
+  <item_763>
+    <id>764</id>
+    <desc>CARTELL GRAFIC ORIENTATIU VEHICLES</desc>
+  </item_763>
+  <item_763>
+    <id>765</id>
+    <desc>LAMES ORIENTACIÓ TURÍSTICA</desc>
+  </item_763>
+  <item_763>
+    <id>768</id>
+    <desc>SENYAL VERTICAL ORIENTATIVA INCIDÈNCIES</desc>
+  </item_763>
+  <item_763>
+    <id>767</id>
+    <desc>LAMES ORIENTACIO VIANANTS</desc>
+  </item_763>
+  <item_763>
+    <id>766</id>
+    <desc>LAMES ORIENTACIÓ VEHICLES</desc>
+  </item_763>
+  <item_769>
+    <id>771</id>
+    <desc>SERVEI</desc>
+  </item_769>
+  <item_769>
+    <id>770</id>
+    <desc>PERSONAL</desc>
+  </item_769>
+  <item_773>
+    <id>775</id>
+    <desc>BANC RETIRAR</desc>
+  </item_773>
+  <item_773>
+    <id>774</id>
+    <desc>BANC NOU</desc>
+  </item_773>
+  <item_776>
+    <id>778</id>
+    <desc>BARANA RETIRAR</desc>
+  </item_776>
+  <item_776>
+    <id>777</id>
+    <desc>BARANA NOVA</desc>
+  </item_776>
+  <item_779>
+    <id>781</id>
+    <desc>CARTELLERA INFORMACIÓ CIUTADANA RETIRAR</desc>
+  </item_779>
+  <item_779>
+    <id>780</id>
+    <desc>CARTELLERA INFORMACIÓ CIUTADANA NOVA</desc>
+  </item_779>
+  <item_782>
+    <id>783</id>
+    <desc>FANAL NOU</desc>
+  </item_782>
+  <item_784>
+    <id>785</id>
+    <desc>FONT NOVA</desc>
+  </item_784>
+  <item_786>
+    <id>787</id>
+    <desc>CISTELLA BASQUET NOVA</desc>
+  </item_786>
+  <item_786>
+    <id>788</id>
+    <desc>CISTELLA BÀSQUET RETIRAR</desc>
+  </item_786>
+  <item_786>
+    <id>789</id>
+    <desc>PORTERIA HANDBOL NOVA</desc>
+  </item_786>
+  <item_786>
+    <id>790</id>
+    <desc>PORTERIA HANDBOL RETIRAR</desc>
+  </item_786>
+  <item_786>
+    <id>791</id>
+    <desc>ALTRES JOCS ESPORTIUS</desc>
+  </item_786>
+  <item_792>
+    <id>793</id>
+    <desc>JOC INFANTIL NOU</desc>
+  </item_792>
+  <item_792>
+    <id>794</id>
+    <desc>JOC INFANTIL RETIRAR</desc>
+  </item_792>
+  <item_795>
+    <id>796</id>
+    <desc>PAPERERA CIRCULAR NOVA</desc>
+  </item_795>
+  <item_795>
+    <id>797</id>
+    <desc>PAPERERA CIRCULAR RETIRAR</desc>
+  </item_795>
+  <item_795>
+    <id>798</id>
+    <desc>PAPERERA SEMICIRCULAR NOVA</desc>
+  </item_795>
+  <item_795>
+    <id>799</id>
+    <desc>PAPERERA SEMICIRCULAR RETIRAR</desc>
+  </item_795>
+  <item_795>
+    <id>800</id>
+    <desc>PAPERERA AMB CENDRER NOVA</desc>
+  </item_795>
+  <item_795>
+    <id>801</id>
+    <desc>PAPERERA AMB CENDRER RETIRAR</desc>
+  </item_795>
+  <item_802>
+    <id>804</id>
+    <desc>PILONA RETIRAR</desc>
+  </item_802>
+  <item_802>
+    <id>803</id>
+    <desc>PILONA NOVA</desc>
+  </item_802>
+  <item_805>
+    <id>806</id>
+    <desc>PILONA AUTOMÀTICA NOVA</desc>
+  </item_805>
+  <item_805>
+    <id>807</id>
+    <desc>PILONA AUTOMÀTICA RETIRAR</desc>
+  </item_805>
+  <item_808>
+    <id>809</id>
+    <desc>PLAQUES NOM DE CARRER NOVA</desc>
+  </item_808>
+  <item_808>
+    <id>810</id>
+    <desc>PLAQUES NOM DE CARRER RETIRAR</desc>
+  </item_808>
+  <item_811>
+    <id>812</id>
+    <desc>BANDES REDUCTORES DE CAUTXÚ NOVES</desc>
+  </item_811>
+  <item_811>
+    <id>813</id>
+    <desc>BANDES REDUCTORES DE CAUTXÚ RETIRAR</desc>
+  </item_811>
+  <item_814>
+    <id>815</id>
+    <desc>APARCAMENTS DE MOTOS NOU</desc>
+  </item_814>
+  <item_814>
+    <id>816</id>
+    <desc>CEBREJAT PAS DE VIANANTS NOU</desc>
+  </item_814>
+  <item_814>
+    <id>817</id>
+    <desc>STOP O CEDIU EL PAS NOU</desc>
+  </item_814>
+  <item_814>
+    <id>818</id>
+    <desc>ALTRES SENYALITZACIÓ HORITZONTAL</desc>
+  </item_814>
+  <item_819>
+    <id>821</id>
+    <desc>PAS DE VIANANTS</desc>
+  </item_819>
+  <item_819>
+    <id>820</id>
+    <desc>CEDIU EL PAS S.V.</desc>
+  </item_819>
+  <item_819>
+    <id>822</id>
+    <desc>PERILL PAS DE VIANANTS</desc>
+  </item_819>
+  <item_819>
+    <id>824</id>
+    <desc>ALTRES SENYALITZACIÓ VERTICAL CODI</desc>
+  </item_819>
+  <item_819>
+    <id>823</id>
+    <desc>STOP S.V.</desc>
+  </item_819>
+  <item_825>
+    <id>826</id>
+    <desc>CARTELL GRAFIC ORIENT. VEHICLES</desc>
+  </item_825>
+  <item_825>
+    <id>827</id>
+    <desc>LAMES ORIENTACIÓ TURÍSTICA</desc>
+  </item_825>
+  <item_825>
+    <id>828</id>
+    <desc>LAMES ORIENTACIÓ VEHICLES</desc>
+  </item_825>
+  <item_825>
+    <id>829</id>
+    <desc>LAMES ORIENTACIO VIANANTS</desc>
+  </item_825>
+  <item_825>
+    <id>830</id>
+    <desc>ALTRES SENYALITZACIÓ VERTICAL ORIENTATIVA</desc>
+  </item_825>
+  <item_831>
+    <id>868</id>
+    <desc>TRANSPORTS i MUNTATGES</desc>
+  </item_831>
+  <item_832>
+    <id>833</id>
+    <desc>Actes Via Pública                           Concurrència NV</desc>
+  </item_832>
+  <item_834>
+    <id>835</id>
+    <desc>Informació i Consultes NV</desc>
+  </item_834>
+  <item_836>
+    <id>837</id>
+    <desc>Millora                            Contenidors</desc>
+  </item_836>
+  <item_838>
+    <id>839</id>
+    <desc>Actes Via Pública                           Concurrència Cont.</desc>
+  </item_838>
+  <item_840>
+    <id>841</id>
+    <desc>Informació i                            Consultes Cont.</desc>
+  </item_840>
+  <item_842>
+    <id>843</id>
+    <desc>Actes Via Pública                           Concurrència R. R.</desc>
+  </item_842>
+  <item_917>
+    <id>918</id>
+    <desc>- General</desc>
+  </item_917>
+</niveles3>
